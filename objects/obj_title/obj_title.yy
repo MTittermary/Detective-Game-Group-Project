@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"obj_title",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_title",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_draw","path":"objects/obj_draw/obj_draw.yy",},"propertyId":{"name":"text","path":"objects/obj_draw/obj_draw.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"PIXEL CRIMES",},
+  ],
+  "parent":{
+    "name":"main_menu",
+    "path":"folders/Objects/main_menu.yy",
+  },
+  "parentObjectId":{
+    "name":"obj_draw",
+    "path":"objects/obj_draw/obj_draw.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":1,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_title",
+    "path":"sprites/spr_title/spr_title.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}
