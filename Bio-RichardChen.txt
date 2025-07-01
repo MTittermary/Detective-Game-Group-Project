@@ -1,0 +1,3 @@
+Richard Chen is a First-Year Drexel Student pursuing a Bachelor Degree of Science, majoring in Computing Security and Techonology. For
+the CI102-103 Project, Richard introduced the idea that is now Team 17's product, a Crime-Solving Game. Utilizing his experience in   
+coding and using GameMaker, he has contributed to various functionalities and designs in the product.
